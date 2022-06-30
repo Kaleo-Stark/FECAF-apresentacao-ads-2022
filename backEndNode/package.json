@@ -1,0 +1,25 @@
+{
+  "name": "api-node-com-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleo-Stark/API-NODE-COM-MYSQL.git"
+  },
+  "keywords": [],
+  "author": "Kaleo Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleo-Stark/API-NODE-COM-MYSQL/issues"
+  },
+  "homepage": "https://github.com/Kaleo-Stark/API-NODE-COM-MYSQL#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
